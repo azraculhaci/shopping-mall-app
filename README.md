@@ -120,7 +120,10 @@ Tables:
 └── mall_activities (mall_id, activity_id)
 ```
 
-## 📱 Screenshots
+## 📺 Demo Video
+
+[![Watch the demo on YouTube](https://img.youtube.com/vi/8RNINAKFxeg/0.jpg)](https://youtu.be/8RNINAKFxeg)
+
 
 
 ## 🚀 Installation & Setup
